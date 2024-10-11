@@ -21,11 +21,11 @@
 
 
 # арифметические операторы
-# num_a_1 = 2 + 4 
-# num_a_2 = 2 - 4
-# num_a_3 = 2 / 4
-# num_a_4 = 2 * 4
-# num_a_5 = 2 ** 4 
+# num_a_1 = 2 + 4 #Сумма
+# num_a_2 = 2 - 4 #Вычитание
+# num_a_3 = 2 / 4 #Деление
+# num_a_4 = 2 * 4 #Умножение
+# num_a_5 = 2 ** 4 #Возведение в степень
 
 # print(num_a_1)
 # print(num_a_2)
@@ -54,11 +54,12 @@
 
 
 # типы данных
-# num_int = 8
-# num_float = 8.7
-# num_str = "hi"
-# num_boot = False
-# num_null = None
+# num_int = 8 # int - Целые числа
+# num_float = 8.7 # float - Числа с плавающей точкой
+# num_str = "hi" # str - Строка
+# num_boot = False # boot - Логические значения
+# num_null = None # null - Ничего
+
 # print(num_int)
 # print(num_float)
 # print(num_str)
