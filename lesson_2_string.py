@@ -31,7 +31,7 @@
 # print("hel" + "lo")
 
 
-# преобразовываем тип из str в int
+# преобразовываем т ип из str в int
 # num_4 = "8"
 # print(type(num_4))
 # num_4 = int(num_4)
@@ -73,4 +73,11 @@ print(num_str)
 print(num_str[0])
 num_str_2 = num_str[1] + num_str[4] + num_str[5]
 print(num_str_2)
+
+
+
+
+print("10 / 3 =" , 10 / 3)
+print("10 // 3 =" , 10 // 3)
+print("10 % 3 =" , 10 % 3)
 
