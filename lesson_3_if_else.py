@@ -55,15 +55,15 @@
 
 
 # это трое разных условий
-# num_2 = 18
-# if(num_2 != 20):
-#     print("if 3  num_2 != 20")
-# if(num_2 == 7):
-#     print("if 1  num_2 == 7")
-# if(num_2 < 10):
-#     print("if 2  num_2 < 10")
-# else:
-#     print("else")
+num_2 = 7
+if(num_2 != 20):
+    print("if 3  num_2 != 20")
+if(num_2 == 7):
+    print("if 1  num_2 == 7")
+if(num_2 < 10):
+    print("if 2  num_2 < 10")
+else:
+    print("else")
 
 
 
@@ -82,5 +82,24 @@
 
 
 
-# fffeefok
+
+
+
+
+# Задание 1
+num = input("--")
+num = int(num)
+print(type(num))
+
+print(num % 2)
+
+if(num % 2 == 0):
+    print("четное")
+else:
+    print("нечетное")
+
+
+# -------------
+
+
 
