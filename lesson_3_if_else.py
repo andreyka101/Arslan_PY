@@ -43,7 +43,7 @@
 # условные операторы and , or
 # print(True and False)
 # print(True or False)
-print((True or False)and(True or False))
+# print((True or False)and(True or False))
 
 
 
