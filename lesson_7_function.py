@@ -47,11 +47,6 @@ num_2 = 9
 
 
 
-def fun_4():
-    num_3 = 4
-    print("num_3 =" , num_3) 
-fun_4()
-# print(num_3)
 
 
 
